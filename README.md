@@ -1,14 +1,14 @@
-##Cloning the app
+## Cloning the app
 ```` bash
 $ git clone https://github.com/amisdun/redis_app.git
 $ cd redis_app/
 ````
-##Build and Run App
+## Build and Run App
 ```` bash
 $ docker-compose build
 $ docker-compose up
 ````
-##API's
+## API's
 ````
 http://localhost:8000/api/communicate/server1
 http://localhost:8000/api/communicate/server2
